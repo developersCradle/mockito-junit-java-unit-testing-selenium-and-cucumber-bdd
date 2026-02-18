@@ -1,10 +1,20 @@
 <p align="center">
+    <img id="testing theme pic" src="Testing_Caption.gif" style="width:790px;height:410px;">
+    <p align="center">
+    Attempt to study <b>test or testing related</b> topics!
+    </p>
+</p>
+
+<p align="center">
     <img id="studying" src="Mockito Next-Level Java Unit Testing Caption.png" style="width:1000px;height:80px;">
 </p>
 
 ![Mockito Next-Level Java Unit Testing](Mockito%20Next-Level%20Java%20Unit%20Testing%20Desc.jpg)
 
-All course material from Mockito: Next-Level Java Unit Testing by **Adrian Więch**.
+All course material from *Mockito: Next-Level Java Unit Testing* by **Adrian Więch**.
+
+> <br><br>
+~ *DevelopersCradle*
 
 Contains my own notes to better learning experience. 
 
@@ -33,13 +43,29 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [x] [Section 04](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Mockito%20Next-Level%20Java%20Unit%20Testing/Section%204%20Additional%20Videos) - Additional Videos. ✔️
 - [x] [Section 05](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Mockito%20Next-Level%20Java%20Unit%20Testing/Section%205%20Want%20to%20Learn%20More) - Want to Learn More? ✔️
 
+#### Additional stuff.
+
+- [ ] Add here
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Some here](#).
+
+
 <p align="center">
     <img id="studying" src="Selenium WebDriver with Java - Basics to Advanced + Frameworks caption.png" style="width:1000px;height:80px;">
 </p>
 
 ![Selenium WebDriver with Java](Selenium%20WebDriver%20with%20Java%20-%20Basics%20to%20Advanced%20+%20Frameworks%20desc.PNG)
 
-All course material from Selenium WebDriver with Java by **Rahul Shetty**.
+All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
+
+> <br><br>
+~ *DevelopersCradle*
 
 Contains my own notes to better learning experience with some course content. 
 
@@ -66,8 +92,39 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - 
+- [ ] [Section 01](#) - Selenium Introduction.
+- [ ] [Section 02](#) - Install Java & Selenium – Get Started with basic Steps of the Selenium WebDriver.
+- [ ] [Section 03](#) - Brush up Java Concepts for Selenium Automation.
+- [ ] [Section 04](#) - CORE JAVA In depth for Manual testers and Beginners.
+- [ ] [Section 05](#) - Locator Techniques & Tools used to identify Objects.
+- [ ] [Section 06](#) - Advanced Locators Identification & Interview Questions on Parsing Text.
+- [ ] [Section 07](#) - Selenium Webdriver → Techniques to automate Web elements.
+- [ ] [Section 08](#) - Deep Dive into Functional testing with Selenium.
+- [ ] [Section 09](#) - Synchronization usage in Selenium Webdriver.
+- [ ] [Section 10](#) - Techniques to automate Ajax calls, Child Windows and IFrames.
+- [ ] [Section 11](#) - Real Time Exercises (end to end Programming).
+- [ ] [Section 12](#) - Practical problems and Methods to Handle them with Selenium.
+- [ ] [Section 13](#) - Miscellaneous topics in Selenium WebDriver.
+- [ ] [Section 14](#) - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables.
+- [ ] [Section 15](#) - Selenium 4.0 - Latest Features.
+- [ ] [Section 16](#) - Framework Part -1 - TestNG.
+- [ ] [Section 17](#) - Learn Java Object Oriented Principles needed for Framework development.
+- [ ] [Section 18](#) - Framework Part 1 - Create Maven Project and Prepare Functional End to end Test.
+- [ ] [Section 19](#) - Framework Part 2 - Design Pattern - Page Object & factory Implementation.
+- [ ] [Section 20](#) - Framework Part 3 - Test Configuration Methods & Global Properties & Parallel Runs.
+- [ ] [Section 21](#) - Framework Part 4 - Test Strategy - Control Tests Execution - Run Parallel Tests.
 
+#### Additional stuff.
+
+- [ ] Add here
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Some here](#).
 
 <p align="center">
     <img id="studying" src="Spring Boot Unit Testing with JUnit, Mockito and MockMvc caption.png" style="width:1000px;height:80px;">
@@ -75,12 +132,17 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 ![Spring Boot Unit Testing with JUnit, Mockito and MockMvc](Spring%20Boot%20Unit%20Testing%20with%20JUnit,%20Mockito%20and%20MockMvc%20desc.JPG)
 
-All course material from Spring Boot Unit Testing with JUnit, Mockito and MockMvc by **Chad Darby** and **Eric Roby**.
+All course material from *Spring Boot Unit Testing with JUnit, Mockito and MockMvc* by **Chad Darby** and **Eric Roby**.
+
+> <br><br>
+~ *DevelopersCradle*
 
 Contains my own notes to better learning experience.
 
 [The Course at Udemy](https://www.udemy.com/course/spring-boot-unit-testing/).   
+
 [Homepage of Maker 1](https://linkedin.com/in/codingwithroby).
+
 [Homepage of Maker 2](https://luv2code.com/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
@@ -116,6 +178,17 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [ ] [Section 14](#) - Appendix
 - [ ] [Section 15](#) - Bonus.
 
+#### Additional stuff.
+
+- [ ] Add here
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Some here](#).
 
 <p align="center">
     <img id="studying" src="Learn Cucumber BDD with Java - MasterClass Selenium Framework Caption.png" style="width:1000px;height:90px;">
@@ -123,7 +196,10 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 ![Cucumber BDD with Java - MasterClass Selenium Framework](Learn%20Cucumber%20BDD%20with%20Java%20-MasterClass%20Selenium%20Framework%20Desc.PNG)
 
-All course material from Selenium WebDriver with Java by **Rahul Shetty**.
+All course material from *Selenium WebDriver with Java* by **Rahul Shetty**.
+
+> <br><br>
+~ *DevelopersCradle*
 
 Contains my own notes to better learning experience with some course content. 
 
@@ -152,13 +228,33 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 - [ ] [Section 01](#) - 
 
+#### Additional stuff.
+
+- [ ] Add here
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Some here](#).
+
+
+
+
 <p align="center">
-    <img id="studying" src="Learn Java Unit Testing with Junit & Mockito in 30 Steps Caption.png" style="width:1000px;height:90px;">
+    <img src="Learn Java Unit Testing with Junit & Mockito in 30 Steps Caption.png" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
 </p>
 
-![Learn Java Unit Testing with Junit & Mockito in 30 Steps](Learn%20Java%20Unit%20Testing%20with%20Junit%20&%20Mockito%20in%2030%20Steps.JPG)
+<p align="center">
+    <img src="Learn Java Unit Testing with Junit & Mockito in 30 Steps.JPG" alt="learn test driven development in java" style="width:690px" />
+</p>
 
-All course material from Learn Java Unit Testing with Junit & Mockito in 30 Steps by **Ranga Karanam** from legendary **in28minutes**.
+All course material from Learn *Java Unit Testing with Junit & Mockito in 30 Steps* by **Ranga Karanam** from legendary **in28minutes**.
+
+> <br><br>
+~ *DevelopersCradle*
 
 Contains my own notes to better learning experience with some course content. 
 
@@ -195,23 +291,45 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [x] [Section 06](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2006%20Mockito%20Advanced) - Mockito Advanced. ✔️
 - [x] [Section 07](https://github.com/developersCradle/mockito-and-junit-java-unit-testing/tree/main/Learn%20Java%20Unit%20Testing%20with%20Junit%20%26%20Mockito%20in%2030%20Steps/Section%2007%20Powermock%20with%20Mockito) - PowerMock with Mockito. ✔️
 
+#### Additional stuff.
+
+- [ ] Add here
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Some here](#).
+
 <p align="center">
-    <img id="studying" src="WireMock for Java Developers Caption.png" style="width:1000px;height:80px;">
+    <img src="WireMock_For_Java_Developers_Caption.png" alt="introduction to algorithms caption" style="width:1600px;height:120px;"/>
 </p>
 
-![WireMock for Java Developers](WireMock%20for%20Java%20Developers%20Desc.JPG)
+<p align="center">
+    <img src="WireMock_For_Java_Developers_Description.JPG" alt="introduction to algorithms caption" style="width:690px" />
+</p>
 
-All course material from WireMock for Java Developers by **Pragmatic Code School**.
+All course material from *WireMock for Java Developers* by **Pragmatic Code School**.
+
+> We were integrating with a third-party payment gateway that had unpredictable response times and occasional schema changes. Our QA environment depended on that external API being up and stable — which it rarely was. Tests would pass one day and fail the next, and debugging became a guessing game. To make things worse, the provider rate-limited us, so reproducing issues locally was nearly impossible.
+>
+>A recent deep dive I had taken into WireMock turned out to be a game changer. Instead of relying on the unstable external service, I stood up a local mock server that replicated the exact API behavior — including edge cases, timeouts, and error responses.<br><br>
+~ *DevelopersCradle*
+
+Contains my own with my own visual notes ✍️ with some course material to enforce learning experience.
+
+This repository is made with [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) with [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) hotkeys, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
 Contains my own notes to better learning experience. 
 
-[The Course at Udemy](https://www.udemy.com/course/wiremock-for-java-developers/).   
+[The Course at Udemy](https://www.udemy.com/course/wiremock-for-java-developers/).  
+
 [Homepage of Maker](https://dilipsundarraj.com/).
 
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
-
-This repository is made with **Eclipse**, therefore it will include configuration files which are related to this IDE this approach will be favored for now. ⚙️
 
 <!-- 
 Linkedin puts this shit front, when clicking from private mode x(. Need to put this to make jump working every case
@@ -226,8 +344,8 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01](#) - Getting Started with Course.
-- [ ] [Section 02](#) - Introduction to WireMock.
+- [x] [Section 01](#) - Getting Started with Course. ✅
+- [ ] [Section 02](#) - Introduction to WireMock. ⚠️ In progress! ⚠️
 - [ ] [Section 03](#) - Slides for the Course.
 - [ ] [Section 04](#) - Setting up the Workspace for the Course.
 - [ ] [Section 05](#) - Build RESTFUL Clients using Spring WebClient.
@@ -241,17 +359,36 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [ ] [Section 13](#) - Running WireMock on Spring Boot.
 - [ ] [Section 14](#) - Running WireMock with Spring Boot and JUnit 5.
 
+#### Additional stuff.
+
+- [ ] Add here
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Some here](#).
+
+
 <p align="center">
-    <img id="studying" src="Learn Test Driven Development in Java caption.png" style="width:1000px;height:80px;">
+    <img src="Learn Test Driven Development in Java caption.png" alt="learn test driven development in java" style="width:1600px;height:120px;"/>
 </p>
 
-![Learn Test Driven Development in Java](Learn%20Test%20Driven%20Development%20in%20Java%20desc.JPG)
+<p align="center">
+    <img src="Learn Test Driven Development in Java desc.JPG" alt="learn test driven development in java" style="width:690px" />
+</p>
 
-All course material from Learn Test Driven Development in Java by **Fluent Software Solutions**.
+All course material from *Learn Test Driven Development in Java* by **Fluent Software Solutions**.
+
+> <br><br>
+~ *DevelopersCradle*
 
 Contains my own notes to better learning experience.
 
-[The Course at Udemy](https://www.udemy.com/course/learn-test-driven-development-in-java/).   
+[The Course at Udemy](https://www.udemy.com/course/learn-test-driven-development-in-java/).
+
 [Homepage of Maker](https://www.fluentforward.com/).
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
@@ -278,3 +415,15 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 - [ ] [Section 05](#) - Testing legacy code.
 - [ ] [Section 06](#) - Test principles.
 - [ ] [Section 07](#) - Applying TDD.
+
+#### Additional stuff.
+
+- [ ] Add here
+
+#### The Quizzes and Labs.
+
+* **Section 01**:
+    * *Quiz*:
+        * [Some here](#).
+    * *Coding Exercise*:
+        * [Some here](#).
