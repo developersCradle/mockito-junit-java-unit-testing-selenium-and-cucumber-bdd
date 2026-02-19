@@ -1,12 +1,21 @@
 <p align="center">
-    <img id="testing theme pic" src="Testing_Caption.gif" style="width:790px;height:410px;">
-    <p align="center">
+    <img id="studying" src="Algorithms_And_Data_Structures_With_Some_Optimization_Courses_Caption.png" style="width:900px;height:140px;">
+<p align="center">
     Attempt to study <b>test or testing related</b> topics!
     </p>
 </p>
 
 <p align="center">
-    <img src="Mockito Next-Level Java Unit Testing Caption.png" alt="Mockito Next-Level Java Unit Testing" style="width:1600px;height:120px;"/>
+    <img id="testing theme pic" src="Testing_Caption.gif" style="width:590px;height:310px;">
+</p>
+
+- For these courses one should configure **GIT** for handle projects.
+    - `git config --global http.postBuffer 524288000`.
+    - `git config --global core.longpaths true`.
+
+
+<p align="center">
+    <img src="Mockito_Next_Level_Java_Unit_Testing_Caption.png" alt="Mockito Next-Level Java Unit Testing" style="width:1600px;height:70px;"/>
 </p>
 
 <p align="center">
@@ -14,7 +23,7 @@
 </p>
 
 All course material from *Mockito: Next-Level Java Unit Testing* by **Adrian Więch**.
-
+>One afternoon, during a release crunch, the problem escalated. A critical module needed **unit test** coverage before merge approval—but we had only 15 minutes to add the tests so the pipeline could pass and the deployment window wouldn’t be missed.
 > <br><br>
 ~ *DevelopersCradle*
 
@@ -350,9 +359,9 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 - [x] [Section 01](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2001#section-01-getting-started-with-course) - Getting Started with Course. ✅
 - [ ] [Section 02](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2002#section-02-introduction-to-wiremock) - Introduction to WireMock. ⚠️ In progress! ⚠️
-- [ ] [Section 03](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2003#section-03-slides-for-the-course) - Slides for the Course.
-- [ ] [Section 04](#) - Setting up the Workspace for the Course.
-- [ ] [Section 05](#) - Build RESTFUL Clients using Spring WebClient.
+- [x] [Section 03](https://github.com/developersCradle/mockito-junit-java-unit-testing-selenium-and-cucumber-bdd/tree/main/WireMock%20for%20Java%20Developers/Section%2003#section-03-slides-for-the-course) - Slides for the Course. ✅
+- [x] [Section 04](#) - Setting up the Workspace for the Course. ✅
+- [ ] [Section 05](#) - Build RESTFUL Clients using Spring WebClient. ⚠️ In progress! ⚠️
 - [ ] [Section 06](#) - Setting Up WireMock.
 - [ ] [Section 07](#) - Build Stubs Using WireMock — Hands On.
 - [ ] [Section 08](#) - Verifying the Stubs — Hands On.
@@ -365,7 +374,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 
 #### Additional stuff.
 
-- [ ] Add here
+- [x] [Repository](https://github.com/dilipsundarraj1/wiremock-for-java-developers) of original author. ✔️
 
 #### The Quizzes and Labs.
 
