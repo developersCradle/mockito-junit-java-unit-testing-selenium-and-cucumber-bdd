@@ -1,5 +1,7 @@
 # Section 01: Getting Started with Course. 
 
+Getting Started with Course.
+
 # What I Learned
 
 # Course Introduction & Objectives.

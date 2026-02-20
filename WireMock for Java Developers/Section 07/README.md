@@ -1,6 +1,6 @@
+# Section 07: Build Stubs Using WireMock — Hands On. 
 
-## Section 01 
-
+Build Stubs Using WireMock — Hands On.
 
 # What I Learned
 

@@ -5,11 +5,18 @@
 # Why WireMock?  
 
 <div align="center">
-    <img src="Modern_Software.PNG" alt="wiremock course" width="600"/>
+    <img src="What_Is_WireMock.PNG" alt="wiremock course" width="600"/>
+</div>
+
+1. Why we need **WireMock**, and what it solves!
+
+<div align="center">
+    <img src="Modern_Software_Developement.PNG" alt="wiremock course" width="600"/>
 </div>
 
 1. Most **enterprise** business are already transferred into **Microservice Architecture**.
-2. Unit test are mandatory!
+2. Restful API's are nowadays the thing!
+3. Unit test are mandatory!
     - There is less fear, when shipping features when there are automated test!
 
 <div align="center">
@@ -17,6 +24,7 @@
 </div>
 
 1. There is client and server. They access each other using endpoints using **HTTP** in internet.
+    - This **RESTFUL**:ness is easy to expose and make.
 
 <div align="center">
     <img src="Typical_Restful_Integration.PNG" alt="wiremock course" width="600"/>
@@ -54,7 +62,7 @@
     <img src="Challanges_In_Restful_Integrations.PNG" alt="wiremock course" width="600"/>
 </div>
 
-1.
+1. Some challenges, when **integrating API's**.
 
 <div align="center">
     <img src="Challenge_Of_Today_Software_Industry.PNG" alt="wiremock course" width="600"/>
@@ -104,10 +112,61 @@
 # What is WireMock?  
 
 <div align="center">
-    <img src="What_Is_WireMock.PNG" alt="wiremock course" width="600"/>
+    <img src="What_Is_WireMock_Details.PNG" alt="wiremock course" width="600"/>
 </div>
 
+1. One can think the **WireMock** is **Mockito** for HTTP request, but way it works it is different!
+2. Since its **server**, it can be interacted with!
+    - `HttpResponse` and `HttpRequest` is configured by the developer!
 
+<div align="center">
+    <img src="What_Is_The_WireMock_Second.PNG" alt="wiremock course" width="600"/>
+</div>
 
+1. We can define **Stubs** in programmatically!
+2. **Stubs** in **WireMock** context refers to combination of the `HttpResponse` and `HttpRequest`.
 
-# WireMock vs Mocking Libraries  
+<div align="center">
+    <img src="What_Is_The_WireMock_Third.PNG" alt="wiremock course" width="600"/>
+</div>
+
+1. **WireMock**, should **ONLY** be ran in the testing context!
+
+<div align="center">
+    <img src="WireMock_Two_Modes.PNG" alt="wiremock course" width="600"/>
+</div>
+
+1. **WireMock** has two modes:
+    - Embedded!
+    - Standalone Mode!
+
+<div align="center">
+    <img src="Embedded_WireMock.PNG" alt="wiremock course" width="600"/>
+</div>
+
+1. **WireMock** will be ran with the **application** and with the **test cases**!
+2. Once the test cases are done, the **WireMock** server will be shutdown!
+
+<div align="center">
+    <img src="Standalone_WireMock.PNG" alt="wiremock course" width="600"/>
+</div>
+
+1. One uses the **StandAlone** mode, when the server is running outside the application!
+Why?
+    - If the application is not **Java** application, and one would want to **mock** the **server** part!
+
+# WireMock vs Mocking Libraries.
+
+<div align="center">
+    <img src="WireMock_Vs_Mocking_Libraries_Like_Mockito.PNG" alt="wiremock course" width="600"/>
+</div>
+
+<div align="center">
+    <img src="WireMock_Comparison.PNG" alt="wiremock course" width="600"/>
+</div>
+
+1. **WireMock** is more **simulation** for the service!
+
+2. **Mockito** does the same, but they server different idea:
+    - **Mockito** mocks objects!
+    - **WireMock** mocks external HTTP service!

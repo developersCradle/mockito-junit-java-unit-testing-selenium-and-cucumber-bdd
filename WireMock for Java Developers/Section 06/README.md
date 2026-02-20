@@ -1,6 +1,6 @@
+# Section 06: Setting Up WireMock. 
 
-## Section 01 
-
+Setting Up WireMock.
 
 # What I Learned
 

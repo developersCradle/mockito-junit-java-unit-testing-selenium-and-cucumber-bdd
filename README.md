@@ -318,7 +318,7 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
         * [Some here](#).
 
 <p align="center">
-    <img src="WireMock_For_Java_Developers_Caption.png" alt="introduction to algorithms caption" style="width:1600px;height:120px;"/>
+    <img src="WireMock_For_Java_Developers_Caption.png" alt="introduction to algorithms caption" style="width:1600px;height:100px;"/>
 </p>
 
 <p align="center">
